@@ -236,7 +236,6 @@ namespace 口算_
                         }
                         else { Console.WriteLine($"错了！正确答案是{cutrue_result}!"); Console.WriteLine($"当前正确率为{(jifen / i) * 100}%"); }
                         break;
-                        //Console.WriteLine("测试成功代码，在正式发行版本看到这行证明出现bug");
                 }
             }
             jishiqi.Stop();
